@@ -1,0 +1,23 @@
+.modal{
+    display: none;
+    height: 100vh;
+    position: fixed;
+    z-index: 10;
+    background-color: rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: white;
+}
+
+.showModal {
+    display: flex !important; /* will override display: none */
+  }
+
+.image{
+    width: 600px;
+}

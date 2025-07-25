@@ -1,0 +1,11 @@
+.floatingLabel {
+    position: absolute;
+    top: 0px;
+    color: #999;
+    transition: all 0.2s ease;
+  }
+  
+ .active {
+    top: -30px;
+    color: #007bff;
+  }
