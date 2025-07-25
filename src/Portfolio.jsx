@@ -32,8 +32,8 @@ function Portfolio() {
 
   return (
     <>
-<div className='bg-white text-black text-center py-3'>
-<div className="container">
+<div className='bg-white text-black text-center py-5'>
+<div className="container mt-5">
 
 <div className='h1 fw-bolder text-uppercase'>portfolio component</div>
 <div><div className='bline'></div><i className="fa-solid fa-star mx-3"></i><div className='bline'></div></div>

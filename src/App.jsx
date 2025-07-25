@@ -6,9 +6,9 @@ import './App.css'
 function App() {
   return (
     <>
-<div className='bg-info text-white text-center py-3'>
+<div className='bg-info text-white text-center py-5'>
 
-<div className="container">
+<div className="container  mt-5">
 <img src="avataaars.svg" style={{width:"250px"}}/>
 <div className='h1 fw-bolder text-uppercase'>start Framework</div>
 <div><div className='line'></div><i class="fa-solid fa-star mx-3"></i><div className='line'></div></div>

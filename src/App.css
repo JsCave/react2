@@ -31,3 +31,13 @@
     background-color: #007da3;
     border-radius: 10px;
 }
+
+/* Default padding */
+.navbar {
+    transition: padding 0.3s ease;
+  }
+  
+  /* Scrolled navbar style */
+  .scrolled-navbar {
+    padding: 10px 1rem !important;
+  }
